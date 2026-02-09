@@ -23,3 +23,13 @@ The data processing was handled in a Jupyter Notebook (`Bikes.ipynb`) using the 
 * **Language:** Python
 * **Libraries:** Pandas, Kaggle API, Zipfile
 * **BI Tool:** Tableau
+
+* ## Predictive Modeling (Machine Learning)
+I extended this project by building a **Random Forest Regressor** to predict hourly bike demand based on environmental factors.
+
+
+
+### Key Results:
+* **Model Performance:** Achieved an **$R^2$ score of 0.24**, indicating that nearly a quarter of the fluctuations in London's bike demand can be explained by weather and temporal data alone.
+* **Primary Drivers:** **Humidity** and **Wind Speed** were identified as the most significant predictors of ridership, followed closely by "Feels Like" temperature.
+* **Business Application:** This model allows operators to anticipate demand surges or drops based on weather forecasts, enabling more efficient fleet rebalancing.
