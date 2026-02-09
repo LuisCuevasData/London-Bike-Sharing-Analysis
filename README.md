@@ -24,7 +24,7 @@ The data processing was handled in a Jupyter Notebook (`Bikes.ipynb`) using the 
 * **Libraries:** Pandas, Kaggle API, Zipfile
 * **BI Tool:** Tableau
 
-* ## Predictive Modeling (Machine Learning)
+## Predictive Modeling (Machine Learning)
 I extended this project by building a **Random Forest Regressor** to predict hourly bike demand based on environmental factors.
 
 
